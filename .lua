@@ -1,5 +1,5 @@
 local s = {
-    ["84514721527976"] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/astral-123/jailbird/refs/heads/main/.lua"))()",
+    ["73814003954154"] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/astral-123/Pickaxe-Tycoon/refs/heads/main/.lua"))()",
 }
 local i = tostring(game.PlaceId)
 if s[i] then loadstring(s[i])() end
