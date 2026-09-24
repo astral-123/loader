@@ -27,7 +27,8 @@ if r then
 end
 
 local s = {
-    ["13822562292"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/astral-123/midnight-chasser/refs/heads/main/.lua'))()", --midnight-chasser
+    ["13822562292"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/astral-123/midnight-chasser/refs/heads/main/.lua'))()", --Midnight-Chasser
+    ["142823291"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/astral-123/Mm2/refs/heads/main/.lua'))()", --Murder-Mystery-2
 }
 local i = tostring(game.PlaceId)
 if s[i] then
