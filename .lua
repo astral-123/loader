@@ -39,7 +39,7 @@ local currentPlaceId = game.PlaceId
 
 -- Script registry: [placeId] = { url = "rawurl", name = "Game Name" }
 local SCRIPTS = {
-	[142823291] = { url = "https://raw.githubusercontent.com/astral-123/Mm2/refs/heads/main/.lua", name = "Murder Mystery 2"     }, -- Murder Mystery 2
+	[142823291] = { url = "https://raw.githubusercontent.com/astral-123/Murder-Mystery-2/refs/heads/main/.lua", name = "Murder Mystery 2"     }, -- Murder Mystery 2
 }
 
 local BG_IMAGE = "rbxassetid://132565349151183"
